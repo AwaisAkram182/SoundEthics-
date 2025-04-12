@@ -3,7 +3,7 @@ import About from './Pages/About';
 import Solution from './Pages/Solution';
 import Contact from './Pages/Contact';
 import Updates from './Pages/Updates';
-import { Routes, Route } from "react-router-dom";
+import {HashRouter as Routes, Route } from "react-router-dom";
 import Hero from './Pages/Hero'
 
 
